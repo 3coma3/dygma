@@ -1,0 +1,21 @@
+Writing helper layers
+
+Caps Lock modes
+
+Normal caps lock: press caps lock
+Extended caps lock: press caps lock twice
+    - word caps: press twice any of comma, colon/semicolon, dot, tab, space, enter
+    - sentence caps: press twice any of dot, enter
+    - paragraph caps: press twice enter
+
+Punctuation shortcuts
+hold L4 + comma: insert space automatically
+hold L4 + dot: insert space automatically, capitalize first letter that occurs
+
+Aphostrophe abbreviations
+
+hold L4 + i(I, double tap it), y(you), s(she), h(he), w(we), t(they), '(aphostrophe): enter abbreviation mode
+in abbreviation mode, hit l('ll), d('d), r('re), s('s), m('m) to complete, add a space and finish abbreviation
+
+
+To abort any helper hit any T8 (unconditional lock Home)
